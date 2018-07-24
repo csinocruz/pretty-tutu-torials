@@ -1,5 +1,5 @@
-#Light Bulb Project
-##The Skeleton :skull: 
+# Light Bulb Project
+## The Skeleton :skull: 
 Click [here](https://cdn-images-1.medium.com/max/1600/1*nm0JcvKyANiyLONtE0K9Rg.png) for a cool slide I found :]
 Create an HTML document, index.html, don't forget to add a title :sunglasses:
 Inside the body tag create an h1 that says My Light Bulb Application 
@@ -12,7 +12,7 @@ Create another button that says OFF, then add an id attribute to your OFF button
 Check in with me :skull:
 The Brains :brain:
 Click [here](https://cdn-images-1.medium.com/max/1600/1*yXJWX1VfK1e3-lm43NJHhA.png) for slide
-######Part 1
+###### Part 1
 Link your script.js to your html document
 Link your jQuery library. Here is a freebie! You can copy and paste this into your html document right next to where you linked your script.js file:
 <script src="https://code.jquery.com/jquery-3.1.0.js"></script>
@@ -33,7 +33,7 @@ CSS styling reference: https://www.w3schools.com/css/css_syntax.asp
 Add correct visibility for each class declaration: https://www.w3schools.com/cssref/pr_class_visibility.asp
 Check in with me :male_zombie:
 More Brains :brain:
-######Part 2
+###### Part 2
 In your script.js, create two functions
 handleOnButton, have it console log 'handleOnButton function called'
 handleOffButton, have it console log 'handleOffButton function called'
@@ -42,7 +42,7 @@ Invoke the handleOnButton function when the ON button is clicked
 Call the handleOffButton function when the OFF button is clicked
 Check in with me :brain:
 Brain Pains :exploding_head:
-######Part 3
+###### Part 3
 In this section, it is very important to understand what your code is doing line by line. Before you run your code, create a hypothesis of what you think will happen and why. 
 
 Test your code often and make break points while running your code. Get comfortable using the inspector! Here is an extremely boring video of how to use the inspector. I apologize, but it was the only one I could find that was straight to the point and not over 20 min. 
