@@ -6,7 +6,7 @@ Click [here](https://cdn-images-1.medium.com/max/1600/1*nm0JcvKyANiyLONtE0K9Rg.p
 1. Create an HTML document, `index.html`, don't forget to add a `title` 😎
 2. Inside the `body`, create an `h1` that says My Light Bulb Application 
 3. Underneath your heading, insert your 2 images (light-bulb-on.jpg and light-bulb-off.jpg)
-4. Add an `id` attribute to the light-bulb-on image. For example, id="light-on"
+4. Add an `id` attribute to the light-bulb-on image. For example, `id="light-on"`
 5. Do the same for your light-bulb-off image
 6. Create a button that says ON
 7. Add an `id` attribute to your ON button. For example, `id="on-button"`
