@@ -3,14 +3,14 @@
 Click [here](https://cdn-images-1.medium.com/max/1600/1*nm0JcvKyANiyLONtE0K9Rg.png) for a cool slide I found :]
 
 
-1. Create an HTML document, index.html, don't forget to add a title :sunglasses:
-2. Inside the body tag create an h1 that says My Light Bulb Application 
+1. Create an HTML document, `index.html`, don't forget to add a `title` 😎
+2. Inside the `body`, create an `h1` that says My Light Bulb Application 
 3. Underneath your heading, insert your 2 images (light-bulb-on.jpg and light-bulb-off.jpg)
-4. Add an id attribute to the light-bulb-on image. For example, id="light-on"
+4. Add an `id` attribute to the light-bulb-on image. For example, id="light-on"
 5. Do the same for your light-bulb-off image
 6. Create a button that says ON
-7. Add an id attribute to your ON button. For example, id="on-button"
-8. Create another button that says OFF, then add an id attribute to your OFF button
+7. Add an `id` attribute to your ON button. For example, `id="on-button"`
+8. Create another button that says OFF, then add an `id` attribute to your OFF button
 
 
 ✔️ Check in with me 💀
@@ -20,16 +20,16 @@ Click [here](https://cdn-images-1.medium.com/max/1600/1*yXJWX1VfK1e3-lm43NJHhA.p
 
 
 ##### Part 1 🚩
-1. Link your script.js to your html document
-2. Link your jQuery library. Here is a freebie! You can copy and paste this into your html document right next to where you linked your script.js file: `<script src="https://code.jquery.com/jquery-3.1.0.js"></script>`
-3. Inside your script.js file, create a function that lets you know the document is loaded and ready. If you are unsure, click here. 
+1. Link your `script.js` to your `html` document
+2. Link your jQuery library. Here is a freebie! You can copy and paste this into your html document right next to where you linked your `script.js` file: `<script src="https://code.jquery.com/jquery-3.1.0.js"></script>`
+3. Inside your `script.js` file, create a function that lets you know the document is loaded and ready. If you are unsure, click here. 
 
 ✔️ Check in with me 🧠
 
 4. Create a separate click handler for each button. 
 Test Your Click Handlers
-* Console log 'the on button was clicked' when the ON button is pressed
-* Console log 'the off button was clicked' when the OFF button is pressed
+* Console log `'the on button was clicked' when the ON button is pressed'`
+* Console log `'the off button was clicked' when the OFF button is pressed'`
 
 
 ✔️ Check in with me 🧠
@@ -38,10 +38,10 @@ Test Your Click Handlers
 Click [here](https://cdn-images-1.medium.com/max/1600/1*_7xje-aNFRomqrScCrXpjw.png) for the 3rd cool slide I found :]
 
 
-1. Link your CSS stylesheet, styles.css to your html document
-2. In the html doc give your ON light bulb image a class of hidden
-3. In the html doc give your OFF light bulb image a class of visible
-4. In your styles.css make a css declaration for the class hidden and another declaration for the class visible. The goal is to make one light bulb visible and the other invisible.
+1. Link your CSS stylesheet, `styles.css` to your `html` document
+2. In the html doc give your ON light bulb image a `class` of hidden
+3. In the html doc give your OFF light bulb image a `class` of visible
+4. In your `styles.css` make a css declaration for the `class` hidden and another declaration for the `class` visible. *The goal is to make one light bulb visible and the other invisible.*
 * CSS styling reference: https://www.w3schools.com/css/css_syntax.asp
 * Add correct visibility for each class declaration: https://www.w3schools.com/cssref/pr_class_visibility.asp
 
@@ -50,12 +50,12 @@ Click [here](https://cdn-images-1.medium.com/max/1600/1*_7xje-aNFRomqrScCrXpjw.p
 
 ## More Brains 🧠
 #### Part 2 🚩
-1. In your script.js, create two functions
-* handleOnButton, have it console log 'handleOnButton function called'
-* handleOffButton, have it console log 'handleOffButton function called'
+1. In your `script.js`, create two functions
+* `handleOnButton`, have it console log `'handleOnButton function called'`
+* `handleOffButton`, have it console log `'handleOffButton function called'`
 2. These two functions are not being called/invoked anywhere! So let's do that in your click handlers (remember, invoke and call mean the exact same thing).
-* Invoke the handleOnButton function when the ON button is clicked
-* Call the handleOffButton function when the OFF button is clicked
+* Invoke the `handleOnButton` function when the ON button is clicked
+* Call the `handleOffButton` function when the OFF button is clicked
 
 
 ✔️ Check in with me 🧠
@@ -71,10 +71,10 @@ In this section, it is very important to understand what your code is doing line
 If you want to grab a chair next to me and see how I do it, that works too. Another option, is just to dive right in and learn by using it yourself. Mess things up! It's good for your coding soul. 😉
 
 
-1. Explore the jQuery methods, .removeClass() and .addClass() 
+1. Explore the jQuery methods, `.removeClass()` and `.addClass()`
 You can check out a ton of other cool jQuery methods here. 
-2. When the ON button is pressed it will call the handleOnButton function. Inside the handleOnButton function, make the **on** light bulb **visible** and the **off** light bulb **hidden** with the use of the jquery methods mentioned above
-3. When the OFF button is pressed it will call the handleOffButton function. Inside the handleOffButton function, make the **off** light bulb visible and the **on** light bulb **hidden**
+2. When the ON button is pressed it will call the `handleOnButton` function. Inside the `handleOnButton` function, make the **on** light bulb **visible** and the **off** light bulb **hidden** with the use of the jquery methods mentioned above
+3. When the OFF button is pressed it will call the `handleOffButton` function. Inside the `handleOffButton` function, make the **off** light bulb visible and the **on** light bulb **hidden**
 
 *If you are still extremely confused, let me know and I will point you in the right direction.*
 
