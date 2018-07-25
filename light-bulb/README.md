@@ -10,7 +10,7 @@ Create a button that says ON
 Add an id attribute to your ON button. For example, id="on-button"
 Create another button that says OFF, then add an id attribute to your OFF button
 Check in with me :skull:
-The Brains :brain:
+## The Brains :brain:
 Click [here](https://cdn-images-1.medium.com/max/1600/1*yXJWX1VfK1e3-lm43NJHhA.png) for slide
 ### Part 1
 Link your script.js to your html document
@@ -23,7 +23,7 @@ Test Your Click Handlers
 Console log 'the on button was clicked' when the ON button is pressed
 Console log 'the off button was clicked' when the OFF button is pressed
 Check in with me :brain:
-The Skin :male_zombie:
+## The Skin :male_zombie:
 Click here for slide
 Link your CSS stylesheet, styles.css to your html document
 In the html doc give your ON light bulb image a class of hidden
@@ -32,7 +32,7 @@ In your styles.css make a css declaration for the class hidden and another decla
 CSS styling reference: https://www.w3schools.com/css/css_syntax.asp
 Add correct visibility for each class declaration: https://www.w3schools.com/cssref/pr_class_visibility.asp
 Check in with me :male_zombie:
-More Brains :brain:
+## More Brains :brain:
 ### Part 2
 In your script.js, create two functions
 handleOnButton, have it console log 'handleOnButton function called'
@@ -41,7 +41,7 @@ These two functions are not being called/invoked anywhere! So let's do that in y
 Invoke the handleOnButton function when the ON button is clicked
 Call the handleOffButton function when the OFF button is clicked
 Check in with me :brain:
-Brain Pains :exploding_head:
+## Brain Pains :exploding_head:
 ### Part 3
 In this section, it is very important to understand what your code is doing line by line. Before you run your code, create a hypothesis of what you think will happen and why. 
 
@@ -55,7 +55,7 @@ When the ON button is pressed it will call the handleOnButton function. Inside t
 When the OFF button is pressed it will call the handleOffButton function. Inside the handleOffButton function, make the off light bulb visible and the on light bulb hidden
 If you are still extremely confused, let me know and I will point you in the right direction.
 Check in with me :exploding_head:
-Finishing Touches :art:
+## Finishing Touches :art:
 Stack the images on top of one another. Off light bulb should appear in front and the on light bulb behind it. This way when we press the on/off buttons it gives the illusion of one bulb being turned off and on. 
 :woman-tipping-hand: CSS is actually my weakest strength, I always have to search the web to find out how to position my elements. 
 Feel free to center all of your elements on the page, add fonts, a favicon, button styling... the world is your oyster :earth_americas:
