@@ -65,17 +65,17 @@ Click [here](https://cdn-images-1.medium.com/max/1600/1*_7xje-aNFRomqrScCrXpjw.p
 In this section, it is very important to understand what your code is doing line by line. Before you run your code, create a hypothesis of what you think will happen and why. 
 
 
-Test your code often and make break points while running your code. Get comfortable using the inspector! Here is an extremely boring video of how to use the inspector. I apologize, but it was the only one I could find that was straight to the point and not over 20 min. 
+**Test your code often and make break points while running your code. Get comfortable using the inspector!** Here is an extremely boring video of how to use the inspector. I apologize, but it was the only one I could find that was straight to the point and not over 20 min. 
 
 
 If you want to grab a chair next to me and see how I do it, that works too. Another option, is just to dive right in and learn by using it yourself. Mess things up! It's good for your coding soul. 😉
 
 
-Explore the jQuery methods, .removeClass() and .addClass() 
+1. Explore the jQuery methods, .removeClass() and .addClass() 
 You can check out a ton of other cool jQuery methods here. 
-When the ON button is pressed it will call the handleOnButton function. Inside the handleOnButton function, make the on light bulb visible and the off light bulb hidden with the use of the jquery methods mentioned above
-When the OFF button is pressed it will call the handleOffButton function. Inside the handleOffButton function, make the off light bulb visible and the on light bulb hidden
-If you are still extremely confused, let me know and I will point you in the right direction.
+2. When the ON button is pressed it will call the handleOnButton function. Inside the handleOnButton function, make the **on** light bulb **visible** and the **off** light bulb **hidden** with the use of the jquery methods mentioned above
+3. When the OFF button is pressed it will call the handleOffButton function. Inside the handleOffButton function, make the **off** light bulb visible and the **on** light bulb **hidden**
+*If you are still extremely confused, let me know and I will point you in the right direction.*
 
 
 ✔️ Check in with me 🤯
