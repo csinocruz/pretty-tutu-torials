@@ -23,7 +23,9 @@ Click [here](https://cdn-images-1.medium.com/max/1600/1*yXJWX1VfK1e3-lm43NJHhA.p
 1. Link your script.js to your html document
 2. Link your jQuery library. Here is a freebie! You can copy and paste this into your html document right next to where you linked your script.js file: `<script src="https://code.jquery.com/jquery-3.1.0.js"></script>`
 3. Inside your script.js file, create a function that lets you know the document is loaded and ready. If you are unsure, click here. 
+
 ✔️ Check in with me 🧠
+
 4. Create a separate click handler for each button. 
 Test Your Click Handlers
 * Console log 'the on button was clicked' when the ON button is pressed
