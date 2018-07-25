@@ -75,13 +75,15 @@ If you want to grab a chair next to me and see how I do it, that works too. Anot
 You can check out a ton of other cool jQuery methods here. 
 2. When the ON button is pressed it will call the handleOnButton function. Inside the handleOnButton function, make the **on** light bulb **visible** and the **off** light bulb **hidden** with the use of the jquery methods mentioned above
 3. When the OFF button is pressed it will call the handleOffButton function. Inside the handleOffButton function, make the **off** light bulb visible and the **on** light bulb **hidden**
+
 *If you are still extremely confused, let me know and I will point you in the right direction.*
 
 
 ✔️ Check in with me 🤯
 
 ## Finishing Touches 🎨
-Stack the images on top of one another. Off light bulb should appear in front and the on light bulb behind it. This way when we press the on/off buttons it gives the illusion of one bulb being turned off and on. 
-💁🏻‍♀️ CSS is actually my weakest strength, I always have to search the web to find out how to position my elements. 
-Feel free to center all of your elements on the page, add fonts, a favicon, button styling... the world is your oyster 🌎
-Good rule of thumb: functionality first, then aesthetics. 
+* Stack the images on top of one another. Off light bulb should appear in front and the on light bulb behind it. This way when we press the on/off buttons it gives the illusion of one bulb being turned off and on. 
+
+💁🏻‍♀️ **CSS is actually my weakest strength, I always have to search the web to find out how to position my elements.**
+* Feel free to center all of your elements on the page, add fonts, a favicon, button styling... the world is your oyster 🌎
+* Good rule of thumb: functionality first, then aesthetics. 
