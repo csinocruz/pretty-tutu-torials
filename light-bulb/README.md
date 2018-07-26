@@ -28,10 +28,10 @@ Click [here](https://cdn-images-1.medium.com/max/1600/1*yXJWX1VfK1e3-lm43NJHhA.p
 
 ✅ Check in with me 🧠
 
-4. Create a separate click handler for each button:
-##### Test Your Click Handlers
-* Console log `'the on button was clicked'` when the ON button is pressed
-* Console log `'the off button was clicked'` when the OFF button is pressed
+4. Create a separate click handler for each button.
+...##### Test Your Click Handlers
+...* Console log `'the on button was clicked'` when the ON button is pressed
+...* Console log `'the off button was clicked'` when the OFF button is pressed
 
 
 ✅ Check in with me 🧠
