@@ -41,7 +41,7 @@ Click [here](https://cdn-images-1.medium.com/max/1600/1*_7xje-aNFRomqrScCrXpjw.p
 1. Link your CSS stylesheet, `styles.css` to your `html` document
 2. In the html doc give your ON light bulb image a `class` of hidden
 3. In the html doc give your OFF light bulb image a `class` of visible
-4. In your `styles.css` make a css declaration for the `class` hidden and another declaration for the `class` visible. *The goal is to make one light bulb visible and the other invisible.*
+4. In your `styles.css` make a css declaration for the class hidden and another declaration for the class visible. *The goal is to make one light bulb visible and the other invisible.*
 * CSS styling reference: https://www.w3schools.com/css/css_syntax.asp
 * Add correct visibility for each class declaration: https://www.w3schools.com/cssref/pr_class_visibility.asp
 
@@ -84,6 +84,6 @@ You can check out a ton of other cool jQuery methods here.
 ## Finishing Touches 🎨
 * Stack the images on top of one another. Off light bulb should appear in front and the on light bulb behind it. This way when we press the on/off buttons it gives the illusion of one bulb being turned off and on. 
 
-💁🏻‍♀️ **CSS is actually my weakest strength, I always have to search the web to find out how to position my elements.**
+💁🏻‍ **CSS is actually my weakest strength, I always have to search the web to find out how to position my elements.**
 * Feel free to center all of your elements on the page, add fonts, a favicon, button styling... the world is your oyster 🌎
 * Good rule of thumb: functionality first, then aesthetics. 
