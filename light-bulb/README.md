@@ -13,7 +13,7 @@ Click [here](https://cdn-images-1.medium.com/max/1600/1*nm0JcvKyANiyLONtE0K9Rg.p
 8. Create another button that says OFF, then add an `id` attribute to your OFF button
 
 
-✔️ Check in with me 💀
+✅ Check in with me 💀
 
 ## The Brains 🧠
 Click [here](https://cdn-images-1.medium.com/max/1600/1*yXJWX1VfK1e3-lm43NJHhA.png) for the 2nd cool slide I found :]
