@@ -29,9 +29,9 @@ Click [here](https://cdn-images-1.medium.com/max/1600/1*yXJWX1VfK1e3-lm43NJHhA.p
 ✅ Check in with me 🧠
 
 4. Create a separate click handler for each button.
-...##### Test Your Click Handlers
-...* Console log `'the on button was clicked'` when the ON button is pressed
-...* Console log `'the off button was clicked'` when the OFF button is pressed
+##### Test Your Click Handlers
+* Console log `'the on button was clicked'` when the ON button is pressed
+* Console log `'the off button was clicked'` when the OFF button is pressed
 
 
 ✅ Check in with me 🧠
@@ -64,7 +64,7 @@ Click [here](https://cdn-images-1.medium.com/max/1600/1*_7xje-aNFRomqrScCrXpjw.p
 
 ## Brain Pains 🤯
 #### Part 3 🚩
-#### In this section, it is very important to understand what your code is doing line by line. Before you run your code, create a hypothesis of what you think will happen and why. 
+> In this section, it is very important to understand what your code is doing line by line. Before you run your code, create a hypothesis of what you think will happen and why. 
 
 
 **Test your code often and make break points while running your code. Get comfortable using the inspector!** Here is an extremely boring video of how to use the inspector. I apologize, but it was the only one I could find that was straight to the point and not over 20 min. 
