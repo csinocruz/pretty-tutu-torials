@@ -1,4 +1,6 @@
 # Light Bulb Project
+This is the first tutorial I have ever made! It's very light and I hope it will spark an interest in you to build more complex projects. In this application you'll learn a little bit about html, css, and javascript. Enjoy!
+
 ## The Skeleton 💀 
 Click [here](https://cdn-images-1.medium.com/max/1600/1*nm0JcvKyANiyLONtE0K9Rg.png) for a cool slide I found :]
 
