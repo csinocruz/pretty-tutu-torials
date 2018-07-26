@@ -75,7 +75,7 @@ If you want to grab a chair next to me and see how I do it, that works too. Anot
 
 1. Explore the jQuery methods, `.removeClass()` and `.addClass()`
 You can check out a ton of other cool jQuery methods here. 
-2. When the ON button is pressed it will call the `handleOnButton` function. Inside the `handleOnButton` function, make the **on** light bulb **visible** and the **off** light bulb **hidden** with the use of the jquery methods mentioned above
+2. When the ON button is pressed it will call the `handleOnButton` function. Inside the `handleOnButton` function, make the **on** light bulb **visible** and the **off** light bulb **hidden** with the use of the jQuery methods mentioned above
 3. When the OFF button is pressed it will call the `handleOffButton` function. Inside the `handleOffButton` function, make the **off** light bulb visible and the **on** light bulb **hidden**
 
 *If you are still extremely confused, let me know and I will point you in the right direction.*
