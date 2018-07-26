@@ -24,7 +24,7 @@ Click [here](https://cdn-images-1.medium.com/max/1600/1*yXJWX1VfK1e3-lm43NJHhA.p
 2. Link your jQuery library. Here is a freebie! You can copy and paste this into your html document right next to where you linked your `script.js` file: `<script src="https://code.jquery.com/jquery-3.1.0.js"></script>`
 3. Inside your `script.js` file, create a function that lets you know the document is loaded and ready. If you are unsure, click here. 
 
-✔️ Check in with me 🧠
+✅ Check in with me 🧠
 
 4. Create a separate click handler for each button:
 ##### Test Your Click Handlers
@@ -32,7 +32,7 @@ Click [here](https://cdn-images-1.medium.com/max/1600/1*yXJWX1VfK1e3-lm43NJHhA.p
 * Console log `'the off button was clicked'` when the OFF button is pressed
 
 
-✔️ Check in with me 🧠
+✅ Check in with me 🧠
 
 ## The Skin 🧟
 Click [here](https://cdn-images-1.medium.com/max/1600/1*_7xje-aNFRomqrScCrXpjw.png) for the 3rd cool slide I found :]
@@ -46,7 +46,7 @@ Click [here](https://cdn-images-1.medium.com/max/1600/1*_7xje-aNFRomqrScCrXpjw.p
 * Add correct visibility for each class declaration: https://www.w3schools.com/cssref/pr_class_visibility.asp
 
 
-✔️ Check in with me 🧟
+✅ Check in with me 🧟
 
 ## More Brains 🧠
 #### Part 2 🚩
@@ -58,7 +58,7 @@ Click [here](https://cdn-images-1.medium.com/max/1600/1*_7xje-aNFRomqrScCrXpjw.p
 * Call the `handleOffButton` function when the OFF button is clicked
 
 
-✔️ Check in with me 🧠
+✅ Check in with me 🧠
 
 ## Brain Pains 🤯
 #### Part 3 🚩
@@ -79,7 +79,7 @@ You can check out a ton of other cool jQuery methods here.
 *If you are still extremely confused, let me know and I will point you in the right direction.*
 
 
-✔️ Check in with me 🤯
+✅ Check in with me 🤯
 
 ## Finishing Touches 🎨
 * Stack the images on top of one another. Off light bulb should appear in front and the on light bulb behind it. This way when we press the on/off buttons it gives the illusion of one bulb being turned off and on. 
