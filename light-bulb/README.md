@@ -66,8 +66,8 @@ Click [here](https://cdn-images-1.medium.com/max/1600/1*_7xje-aNFRomqrScCrXpjw.p
 #### Part 3 🚩
 > In this section, it is very important to understand what your code is doing line by line. Before you run your code, create a hypothesis of what you think will happen and why. 
 
-
-**Test your code often and make break points while running your code. Get comfortable using the inspector!** Here is an extremely boring video of how to use the inspector. I apologize, but it was the only one I could find that was straight to the point and not over 20 min. 
+>Test your code often and make break points while running your code. Get comfortable using the inspector! 
+Here is an extremely boring video of how to use the inspector. I apologize, but it was the only one I could find that was straight to the point and not over 20 min. 
 
 
 If you want to grab a chair next to me and see how I do it, that works too. Another option, is just to dive right in and learn by using it yourself. Mess things up! It's good for your coding soul. 😉
