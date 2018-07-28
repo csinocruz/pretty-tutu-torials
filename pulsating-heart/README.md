@@ -11,4 +11,6 @@ Cupcake macaroon marzipan fruitcake pie carrot cake chocolate bar muffin. Sweet 
 2. Give the body a background color
 2. Center your heart image
 Centered like this:
-![alt text](pink-heart.png)
+
+![alt text](example1.png)
+
