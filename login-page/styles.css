@@ -1,0 +1,63 @@
+* { box-sizing: border-box }
+
+html, body {
+    height: 90%;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    background-color: cornflowerblue;
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 1px;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+input {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.login-container {
+    min-height: 250px;
+    min-width: 150px;
+    width: 30%;
+    background-color: rgba(255, 255, 255, 0.3);
+    padding: 0 20px 30px 20px;
+}
+
+#kirby {
+    height: 100px;
+    margin: 30px;
+}
+
+
+
+/* BUTTON STYLING */
+
+button {
+    background-color: green;
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 25px;
+    font-family: 'Anton', sans-serif;
+    padding: 5px 10px;
+    border-radius: 10px;
+    transition: 0.3s;
+    box-shadow: 2px 3px lightgray;
+    border: none;
+
+    float: right;
+  }
+  
+  button:hover {
+    background-color: orange;
+  }

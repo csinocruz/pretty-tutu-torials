@@ -1,0 +1,21 @@
+html {
+    background-image: url('mojave.jpg'); 
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+}
+
+body {
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 10vh;
+    color: white;
+}
+
+.container {
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+}

@@ -9,7 +9,7 @@ body { background-color: #bbbbff; }
 }
 
 
-/* ----- ANIMATIONS ----- */
+/* ----- START OF ANIMATIONS ----- */
 @-webkit-keyframes pulse {
     0% {
       -webkit-transform: scale3d(1.5, 1.5, 1.5);
@@ -60,3 +60,4 @@ body { background-color: #bbbbff; }
     -webkit-animation-iteration-count: infinite;
             animation-iteration-count: infinite;
   }
+  /* ----- END OF ANIMATIONS ----- */
