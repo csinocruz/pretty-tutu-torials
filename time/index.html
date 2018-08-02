@@ -4,6 +4,9 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Time</title>
+    <link rel="icon" 
+      type="image/png" 
+      href="clock-favicon.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="https://code.jquery.com/jquery-3.1.0.js"></script>
     <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
@@ -11,13 +14,25 @@
     <script src="script.js"></script>
 </head>
 <body>
-    <div class="container">
-        <span id="day">
-            <!-- DAY -->
-        </span>
-        <span id="time">
-            <!-- 00:00 AM/PM -->
-        </span>
+    <div class="mili-time">
+        Military Time
+        <input id="checkbox" type="checkbox" name="military-time" value="">
+    </div>
+    
+    
+    <div class="main-wrapper">
+
+        <div class="time-container">
+            <span id="day"></span>
+            <span id="hour"></span>:<span id="min"></span>
+            <span id="am-pm"></span>
+        </div>
+        
+        <div class="quote-container">
+            <span id="quote-content"></span>
+            - <span id="quote-author"></span>
+        </div>
+
     </div>
 </body>
 </html>

@@ -10,7 +10,7 @@ $(document).ready(function() {
     });
 });
 
-var audio = new Audio('click.mp3');
+var audio = new Audio('assets/click.mp3');
 
 function handleOnButton(){
     console.log('ON');
