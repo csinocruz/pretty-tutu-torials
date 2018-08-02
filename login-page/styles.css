@@ -10,7 +10,7 @@ body {
     align-items: center;
     flex-direction: column;
 
-    background-color: cornflowerblue;
+    background-color: #caf2ff;
     font-family: 'Anton', sans-serif;
     letter-spacing: 1px;
 }
@@ -29,12 +29,12 @@ input {
     min-height: 250px;
     min-width: 150px;
     width: 30%;
-    background-color: rgba(255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 0.4);
     padding: 0 20px 30px 20px;
 }
 
-#kirby {
-    height: 100px;
+#welcome-gif {
+    height: 20vh;
     margin: 30px;
 }
 
@@ -43,7 +43,8 @@ input {
 /* BUTTON STYLING */
 
 button {
-    background-color: green;
+    background-color: #feafde;
+    outline: none;
     text-transform: uppercase;
     color: white;
     letter-spacing: 2px;
@@ -51,13 +52,14 @@ button {
     font-family: 'Anton', sans-serif;
     padding: 5px 10px;
     border-radius: 10px;
-    transition: 0.3s;
-    box-shadow: 2px 3px lightgray;
+    transition: 0.1s;
+    box-shadow: 0 5px #999;
     border: none;
-
     float: right;
-  }
-  
-  button:hover {
-    background-color: orange;
-  }
+}
+
+button:active {
+    background-color: #fa83c9;
+    box-shadow: 0 3px #7d7d7d;
+    transform: translateY(2px); 
+}
