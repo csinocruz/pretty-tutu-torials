@@ -1,0 +1,42 @@
+* { box-sizing: border-box }
+
+body {
+    overflow: hidden;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center; /*centers items on the line (the x-axis by default)*/
+    align-items: center; /*centers items on the cross-axis (y by default)*/
+
+    font-family: 'Hanalei Fill', cursive;
+    background-color: #bbf0bb;
+
+}
+
+.title { font-size: 5em; }
+
+#welcome-deer {
+    height: 200px;
+}
+
+.login-container {
+    background-color: #ffffff8f;
+    border-radius: 15px;
+    margin: 10%;
+    padding: 5%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input {
+    width: 100%;
+    height: 35px;
+
+    padding: 5px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    border-color: #aecfae;
+}
