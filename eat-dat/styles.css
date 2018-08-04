@@ -1,4 +1,4 @@
-* { 
+* {
     box-sizing: border-box;
     margin: 0;
 }
@@ -9,17 +9,19 @@ body {
     width: 100%;
     height: 100%;
     display: flex;
-    justify-content: center; /*centers items on the line (the x-axis by default)*/
-    align-items: center; /*centers items on the cross-axis (y by default)*/
-
+    justify-content: center;
+    align-items: center;
     font-family: 'Hanalei Fill', cursive;
-    background-color: #bbf0bb;
 
+    /* STILL DECIDING ON BACKGROUND COLOR */
+    background-color: #0e4f0e;
+    background-color: #b7ecb7; 
+    background-color: #9b9b9b;
 }
 
-.title { 
-    font-size: 5em; 
-    margin-top: 20%;
+.title {
+    font-size: 5em;
+    margin-top: 13%;
 }
 
 #welcome-deer {
@@ -38,7 +40,7 @@ body {
 }
 
 .login-area {
-    margin-bottom: 20%;
+    margin-bottom: 10%;
 }
 
 input {
@@ -48,6 +50,46 @@ input {
     padding: 5px;
     margin-top: 8px;
     margin-bottom: 8px;
-    border-color: #aecfae;
     border-style: hidden;
+}
+
+/* BUTTON STYLING */
+button {
+    position: relative;
+    float: right;
+    font-family: 'Hanalei Fill', cursive;
+    background-color: #229324;
+    border: none;
+    font-size: 25px;
+    color: #ffe500;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+    margin-top: 10px;
+    padding: 5px 10px;
+    border-radius: 25px 0px;
+    letter-spacing: 2px;
+}
+
+button:after {
+    content: "";
+    background: #ffe500;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px!important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+button:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s
 }
