@@ -1,0 +1,38 @@
+body {
+    background-color: lightgrey;
+    font-family: 'Josefin Slab', serif;
+}
+
+.page-container {
+    height: 100vh;
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 4em;
+    font-family: 'Special Elite', cursive;
+}
+
+.projects-container {
+    border: 2px solid orange;
+    height: 40vh;
+
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.column {
+    border: 2px solid blue;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.project {
+    border: 2px solid black;
+    height: 200px;
+    min-width: 200px;
+}
