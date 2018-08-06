@@ -3,6 +3,24 @@ body {
     font-family: 'Josefin Slab', serif;
 }
 
+.navigation-bar {
+    background-color: white;
+    height: 12vh;
+    opacity: 0.7;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+/* .footer {
+    background-color: white;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    height: 80px;
+} */
+
 .page-container {
     height: 100vh;
     max-width: 80%;
@@ -12,10 +30,15 @@ body {
 h1 {
     font-size: 4em;
     font-family: 'Special Elite', cursive;
+    margin-top: 165px;
+    border-left: 8px double black;
+    padding-left: 15px;
+    padding-top: 13px;
 }
 
 .projects-container {
-    border: 2px solid orange;
+    /* border: 2px solid orange; */
+    margin-top: 8%;
     height: 40vh;
 
     display: flex;
@@ -24,15 +47,42 @@ h1 {
 }
 
 .column {
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
     width: 300px;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.project {
+#project1 {
     border: 2px solid black;
     height: 200px;
     min-width: 200px;
+
+    background-image: url("dog1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+#project2 {
+    border: 2px solid black;
+    height: 200px;
+    min-width: 200px;
+
+    background-image: url("dog2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+#project3 {
+    border: 2px solid black;
+    height: 200px;
+    min-width: 200px;
+
+    background-image: url("dog3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
 }
