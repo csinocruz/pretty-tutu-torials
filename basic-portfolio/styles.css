@@ -1,0 +1,112 @@
+body {
+    background-color: lightgrey;
+    font-family: 'Josefin Slab', serif;
+}
+
+.navigation-container {
+    background-color: white;
+    height: 12vh;
+    opacity: 0.7;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.navi-list > li {
+    display: inline;
+    font-size: 1em;
+    text-transform: uppercase;
+    font-family: 'Special Elite', cursive;
+    padding: 0px 10px;
+}
+
+.navi-list {
+    display: inline;
+    float: right;
+    padding: 0;
+    padding-right: 6%; 
+    margin-top: 5vh;
+}
+
+#logo {
+    height: 8vh;
+    margin: 2vh;
+    margin-left: 6%;
+
+    display: inline;
+}
+
+/* .footer {
+    background-color: white;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    height: 80px;
+} */
+
+.page-container {
+    height: 100vh;
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 4em;
+    font-family: 'Special Elite', cursive;
+    margin-top: 165px;
+    border-left: 8px double black;
+    padding-left: 15px;
+    padding-top: 13px;
+}
+
+.projects-container {
+    /* border: 2px solid orange; */
+    margin-top: 8%;
+    height: 40vh;
+
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.column {
+    /* border: 2px solid blue; */
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#project1 {
+    border: 2px solid black;
+    height: 200px;
+    min-width: 200px;
+
+    background-image: url("dog1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+#project2 {
+    border: 2px solid black;
+    height: 200px;
+    min-width: 200px;
+
+    background-image: url("dog2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+#project3 {
+    border: 2px solid black;
+    height: 200px;
+    min-width: 200px;
+
+    background-image: url("dog3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
