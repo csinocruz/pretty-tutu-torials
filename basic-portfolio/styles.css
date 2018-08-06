@@ -6,7 +6,7 @@ body {
 .navigation-container {
     background-color: white;
     height: 12vh;
-    opacity: 0.7;
+    opacity: 0.8;
     position: fixed;
     top: 0;
     left: 0;
@@ -29,6 +29,12 @@ body {
     margin-top: 5vh;
 }
 
+@media (max-width: 450px) {
+    .navi-list {
+        font-size: 3vw;
+    }
+}
+
 #logo {
     height: 8vh;
     margin: 2vh;
@@ -36,14 +42,6 @@ body {
 
     display: inline;
 }
-
-/* .footer {
-    background-color: white;
-    position: absolute;
-    width: 100%;
-    left: 0;
-    height: 80px;
-} */
 
 .page-container {
     height: 100vh;
@@ -57,7 +55,7 @@ h1 {
     margin-top: 165px;
     border-left: 8px double black;
     padding-left: 15px;
-    padding-top: 13px;
+    padding-top: 20px;
 }
 
 .projects-container {
