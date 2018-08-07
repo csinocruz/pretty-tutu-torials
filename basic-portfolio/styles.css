@@ -45,8 +45,17 @@ body {
 
 .page-container {
     height: 100vh;
-    max-width: 80%;
+    max-width: 55%;
+    min-width: 300px;
     margin: 0 auto;
+}
+
+/* .push { height: 100px } */
+.footer {
+    width: 100%;
+    background-color: orange;
+    display: flex;
+    align-content: flex-end;
 }
 
 h1 {
@@ -58,10 +67,15 @@ h1 {
     padding-top: 20px;
 }
 
+p {
+    font-size: 18px;
+    line-height: 30px;
+}
+
 .projects-container {
     /* border: 2px solid orange; */
     margin-top: 8%;
-    height: 40vh;
+    height: 60vh;
 
     display: flex;
     justify-content: space-around;
@@ -71,6 +85,8 @@ h1 {
 .column {
     /* border: 2px solid blue; */
     width: 300px;
+    margin: 15px 0px;
+
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -79,7 +95,7 @@ h1 {
 #project1 {
     border: 2px solid black;
     height: 200px;
-    min-width: 200px;
+    min-width: 240px;
 
     background-image: url("dog1.jpg");
     background-size: cover;
@@ -90,7 +106,7 @@ h1 {
 #project2 {
     border: 2px solid black;
     height: 200px;
-    min-width: 200px;
+    min-width: 240px;
 
     background-image: url("dog2.jpg");
     background-size: cover;
@@ -101,7 +117,7 @@ h1 {
 #project3 {
     border: 2px solid black;
     height: 200px;
-    min-width: 200px;
+    min-width: 240px;
 
     background-image: url("dog3.jpg");
     background-size: cover;
