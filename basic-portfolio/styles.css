@@ -1,6 +1,22 @@
+html {
+    height: 100%;
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
 body {
     background-color: lightgrey;
     font-family: 'Josefin Slab', serif;
+
+    position: relative;
+    margin: 0;
+    padding-bottom: 6rem;
+    min-height: 100%;
 }
 
 .navigation-container {
@@ -50,12 +66,14 @@ body {
     margin: 0 auto;
 }
 
-/* .push { height: 100px } */
 .footer {
+    position: absolute;
+    background-color: yellow;
     width: 100%;
-    background-color: orange;
-    display: flex;
-    align-content: flex-end;
+    left: 0;
+    padding: 30px;
+    text-align: center;
+    margin-top: 50px;
 }
 
 h1 {
@@ -73,9 +91,9 @@ p {
 }
 
 .projects-container {
-    /* border: 2px solid orange; */
+    border: 2px solid orange;
     margin-top: 8%;
-    height: 80vh;
+    /* height: 80vh; */
 
     display: flex;
     justify-content: space-around;
@@ -83,10 +101,10 @@ p {
 }
 
 .column {
-    /* border: 2px solid blue; */
-    width: 300px;
+    border: 2px solid blue;
+    width: 30%;
+    min-width: 250px;
     margin: 15px 0px;
-
     display: flex;
     flex-direction: column;
     align-items: center;
