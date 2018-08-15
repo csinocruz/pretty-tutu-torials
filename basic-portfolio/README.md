@@ -1,7 +1,7 @@
 # Basic Portfolio Site
 A simple, portfolio page to showcase a few of your projects. Created to help you learn HTML & CSS. 
 
-####🚩 START HERE ➡️ What you will need:
+###🚩 START HERE ➡️ What you will need:
 
 * Text Editor
 * Google
@@ -11,10 +11,10 @@ A simple, portfolio page to showcase a few of your projects. Created to help you
      - [Ways to Incorporate CSS](https://www.w3schools.com/css/css_howto.asp) (for this project, we will be using an external stylesheet)
      - [Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
 * How to create [comments](https://www.w3schools.com/html/html_comments.asp) in HTML
-* How to create [comments](https://www.w3schools.com/css/css_syntax.asp) in CSS (at the bottom, "CSS Comments")
-* [How to use the Google Chrome Inspector](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/)❗
+* How to create [comments](https://www.w3schools.com/css/css_syntax.asp) in CSS (scroll to bottom)
+* [How to use the Google Chrome Inspector](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/) It might look scary, but it will save your life❗
 
-####Dummy Data Filler:
+###Dummy Data Filler:
 * [Lorem Ipsum](https://loremipsum.io/)
 * [Cupcake Ipsum](http://www.cupcakeipsum.com/)
 * [Hipster Ipsum](https://hipsum.co/)
@@ -100,7 +100,7 @@ There are different ways to add images onto a page. We are going to do it this w
 ```
 For more info on finding the correct file path, you can go [here](https://www.w3schools.com/html/html_filepaths.asp).
 
-Add the following:
+Add the following CSS:
 ```css
 // this targets the element with the class 'photo'
 .photo {
