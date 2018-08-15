@@ -72,7 +72,7 @@ It's important to organize your stylesheet and add comments when necessary becau
 4. Underneath, make an `h2` as a title for the photo
 5. Then underneath your `h2` create a `p` tag and add text/ipsum 
 
-#####Should look like this: 
+##### Should look like this: 
 ```html
             <div id="project1" class="column">
                 <div class="photo">
@@ -91,18 +91,17 @@ Do this 2 more times inside the projects-container div, but each `id` should be 
 
 ### Let's add Images 📸
 There are different ways to add images onto a page. We are going to do it this way, but feel free to do as you wish. The following will be added to your `styles.css`, not your `index.html` file.
+
+The selector targets the `id` called `project1` and then looks for a child element with the `class`, `photo`. For the url you can add a direct link or enter the path to a photo in your directory. For more info on finding the correct file path, you can go [here](https://www.w3schools.com/html/html_filepaths.asp).
 ```css
-// this selector targets the id called 'project1' and then looks for a child element with the class 'photo'
-// for the url you can add a direct link or enter the path to a photo in your directory
  #project1 > .photo {
      background-image: url("https://media.brides.com/photos/5994759d8c2b365d5c23c0c5/1:1/w_767/A.P.%2520Bio%2520rose%2520detail.png");
 }
 ```
-For more info on finding the correct file path, you can go [here](https://www.w3schools.com/html/html_filepaths.asp).
 
-Add the following CSS:
+
+Add the following CSS, this targets the element with the class photo:
 ```css
-// this targets the element with the class 'photo'
 .photo {
     border-radius: 5%; 
     height: 200px; 
