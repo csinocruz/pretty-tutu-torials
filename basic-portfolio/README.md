@@ -99,7 +99,7 @@ There are different ways to add images onto a page. We are going to do it this w
 The selector targets the `id` called `project1` and then looks for a child element with the `class`, `photo`. For the url you can add a direct link or enter the path to a photo in your directory. For more info on finding the correct file path, you can go [here](https://www.w3schools.com/html/html_filepaths.asp).
 ```css
  #project1 > .photo {
-     background-image: url("https://media.brides.com/photos/5994759d8c2b365d5c23c0c5/1:1/w_767/A.P.%2520Bio%2520rose%2520detail.png");
+     background-image: url("https://raw.githubusercontent.com/csinocruz/pretty-tutu-torials/master/basic-portfolio/brown-poodle-mix.jpg");
 }
 ```
 
