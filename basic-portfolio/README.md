@@ -11,8 +11,8 @@ A simple, portfolio page to showcase a few of your projects. Created to help you
      - [Ways to Incorporate CSS](https://www.w3schools.com/css/css_howto.asp) (for this project, we will be using an external stylesheet)
      - [Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
 * How to create [comments](https://www.w3schools.com/html/html_comments.asp) in HTML
-* How to create [comments](https://www.w3schools.com/css/css_syntax.asp) in CSS (at the bottom, "CSS Comments")
-* [How to use the Google Chrome Inspector](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/)❗
+* How to create [comments](https://www.w3schools.com/css/css_syntax.asp) in CSS (scroll to bottom)
+* [How to use the Google Chrome Inspector](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/) It might look scary, but it will save your life❗
 
 ####Dummy Data Filler:
 * [Lorem Ipsum](https://loremipsum.io/)
