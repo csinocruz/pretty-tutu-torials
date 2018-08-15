@@ -1,7 +1,7 @@
 # Basic Portfolio Site
 A simple, portfolio page to showcase a few of your projects. Created to help you learn HTML & CSS. 
 
-###🚩 START HERE ➡️ What you will need:
+#### 🚩 START HERE ➡️ What you will need:
 
 * Text Editor
 * Google
@@ -14,7 +14,7 @@ A simple, portfolio page to showcase a few of your projects. Created to help you
 * How to create [comments](https://www.w3schools.com/css/css_syntax.asp) in CSS (scroll to bottom)
 * [How to use the Google Chrome Inspector](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/) It might look scary, but it will save your life❗
 
-###Dummy Data Filler:
+#### Dummy Data Filler:
 * [Lorem Ipsum](https://loremipsum.io/)
 * [Cupcake Ipsum](http://www.cupcakeipsum.com/)
 * [Hipster Ipsum](https://hipsum.co/)
