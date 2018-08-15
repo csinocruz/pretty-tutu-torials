@@ -12,8 +12,6 @@ html {
 body {
     background-color: lightgrey;
     font-family: 'Josefin Slab', serif;
-
-    position: relative;
     margin: 0;
     padding-bottom: 6rem;
     min-height: 100%;
