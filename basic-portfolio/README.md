@@ -63,6 +63,10 @@ You can also select elements by their [class](https://www.w3schools.com/cssref/s
 
 It's important to organize your stylesheet and add comments when necessary because it is easy to override other styled elements by specificity or level of importance. This is diving deeper into CSS knowledge, so for more info you can go [here](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity) or [here](https://www.google.com/) 😉.
 
+If you want to add some more flare, you can add a left border to the `h1` element. If you've been doing everything right, you should have something close to this:
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Screen Shot of Part 1")
+
 ## PART 2️⃣
 ### Back to the HTML Skeleton 💀
 
@@ -74,18 +78,18 @@ It's important to organize your stylesheet and add comments when necessary becau
 
 ##### Should look like this: 
 ```html
-            <div id="project1" class="column">
-                <div class="photo">
-                    <!-- picture -->
-                </div>
-                <h2>Wood Smoked</h2>
-                <p>
-                    Pop-up retro neutra lo-fi. Swag 90's keytar street art kinfolk PBR&B cold-pressed 
-                    deep v post-ironic. Pinterest taxidermy artisan freegan tbh trust fund kale chips 
-                    ethical meditation YOLO. Tacos quinoa beard locavore hexagon readymade. Shaman 
-                    iPhone vape hoodie copper mug helvetica fingerstache food truck venmo live-edge.
-                </p>
-            </div>
+<div id="project1" class="column">
+     <div class="photo">
+          <!-- picture -->
+     </div>
+     <h2>Wood Smoked</h2>
+     <p>
+          Pop-up retro neutra lo-fi. Swag 90's keytar street art kinfolk PBR&B cold-pressed 
+          deep v post-ironic. Pinterest taxidermy artisan freegan tbh trust fund kale chips 
+          ethical meditation YOLO. Tacos quinoa beard locavore hexagon readymade. Shaman 
+          iPhone vape hoodie copper mug helvetica fingerstache food truck venmo live-edge.
+     </p>
+</div>
 ```
 Do this 2 more times inside the projects-container div, but each `id` should be unique. As in "project1", "project2", and "project3". It's important to know the difference between `id`'s and `classes`. Check out [this page](https://css-tricks.com/the-difference-between-id-and-class/) for a deeper understanding. 
 
