@@ -1,0 +1,30 @@
+/* ***** start of css reset ***** */
+html { box-sizing: border-box; }
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body { margin: 0; }
+/* ***** end of css reset ***** */
+
+/* ***** fonts *****
+font-family: 'Permanent Marker', cursive;
+*/
+
+.projects {
+    /* height: 500px; */
+    border: 2px solid orange;
+    max-width: 500px;
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.projects > li {
+    list-style: none;
+    border: 2px solid blue;
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+}
