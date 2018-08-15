@@ -63,9 +63,9 @@ You can also select elements by their [class](https://www.w3schools.com/cssref/s
 
 It's important to organize your stylesheet and add comments when necessary because it is easy to override other styled elements by specificity or level of importance. This is diving deeper into CSS knowledge, so for more info you can go [here](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity) or [here](https://www.google.com/) 😉.
 
-If you want to add some more flare, you can add a left border to the `h1` element. If you've been doing everything right, you should have something close to this:
+If you want to add some more flare, you can add a left border to the `h1` element. If you've been doing everything right, you should have something like this:
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Screen Shot of Part 1")
+![alt text](https://raw.githubusercontent.com/csinocruz/pretty-tutu-torials/master/basic-portfolio/part-1-screenshot.png "Screen Shot of Part 1")
 
 ## PART 2️⃣
 ### Back to the HTML Skeleton 💀
