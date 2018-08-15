@@ -100,7 +100,7 @@ There are different ways to add images onto a page. We are going to do it this w
 ```
 For more info on finding the correct file path, you can go [here](https://www.w3schools.com/html/html_filepaths.asp).
 
-Add the following:
+Add the following CSS:
 ```css
 // this targets the element with the class 'photo'
 .photo {
