@@ -21,7 +21,7 @@ A simple, portfolio page to showcase a few of your projects. Created to help you
 * [Bacon Ipsum](https://baconipsum.com/)
 * [Veggie Ipsum](http://veggieipsum.com/) (if you were offended by the last one)
 
-## PART 1️⃣
+# PART 1️⃣
 ### The Skeleton 💀 
 Click [here](https://cdn-images-1.medium.com/max/1600/1*nm0JcvKyANiyLONtE0K9Rg.png) for a cool slide I found 💫
 
@@ -77,7 +77,7 @@ If you want to add some more flare, you can add a left [border](https://www.w3sc
 
 I added a larger font-size to my h1 tag. Feel free to play around with [font-sizes](https://css-tricks.com/almanac/properties/f/font-size/) or other properties like line-height, letter-spacing, etc. 
 
-## PART 2️⃣
+# PART 2️⃣
 ### Back to the HTML Skeleton 💀
 Read through carefully... 
 
@@ -150,7 +150,7 @@ flex-direction: column;
 align-items: center;
 ```
 
-5. To make things look a better, add a margin of 15px to `.column` and a margin-top of 50px to the `.projects-container`. On larger screens the projects will line up in a row across the page. As the browser window becomes smaller, the projects will start to stack. Try it out by changing the size of your browser. 
+5. To make things look nicer, add a margin of 15px to `.column` and a margin-top of 50px to the `.projects-container`. On larger screens the projects will line up in a row across the page. As the browser window becomes smaller, the projects will start to stack. Try it out by changing the size of your browser while viewing your page. 
 
 ### Let's add Images 📸
 There are different ways to add images onto a page. But for this project, we'll be doing it this way 😊. We are going to insert the image(s) into the div(s). 
@@ -177,7 +177,7 @@ background-position: 50% 50%;
 
 ![alt text](https://raw.githubusercontent.com/csinocruz/pretty-tutu-torials/master/basic-portfolio/part-2-screenshot.png "Screen Shot of Part 2")
 
-## PART 3️⃣
+# PART 3️⃣
 
 ### FlexBox 🐸
 Want to become a master at placing elements on a page? [FlexboxFroggy](https://flexboxfroggy.com/) is your friend. 
