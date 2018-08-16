@@ -60,6 +60,7 @@ body {
 }
 ```
 You can also select elements by their [class](https://www.w3schools.com/cssref/sel_class.asp) or [id](https://www.w3schools.com/cssref/sel_id.asp). There are many different ways to select elements, you can group multiple elements, every 3rd child, nested elements, only odd numbers, last child, etc. 
+
 4. To clean up the layout, add these properties to the `.page-container`:
 ```css
 max-width: 55%;
@@ -104,6 +105,10 @@ Read through carefully...
 Do this 2 more times inside the projects-container div, but each `id` should be unique. As in "project1", "project2", and "project3". The class `photo` will remain the same name for all 3. It's important to know the difference between `id`'s and `classes`. Check out [this page](https://css-tricks.com/the-difference-between-id-and-class/) for a deeper understanding. 
 
 Annnd, just so we have more content to work with on the page, let's create a new div with a class called `section`. This will come after the `projects-container` div ***(still inside `page-container`, but NOT inside the `projects-container`)***. Inside div.section add an `h2` and 2 `p` tags (add text/ipsum). 
+
+Your div with class `section` should look something like this:
+
+![alt text](https://raw.githubusercontent.com/csinocruz/pretty-tutu-torials/master/basic-portfolio/part-1-screenshotA.png "Screen Shot of Part 1A")
 
 
 ### Back to The Skin 🧟
