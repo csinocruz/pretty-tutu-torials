@@ -108,7 +108,7 @@ Annnd, just so we have more content to work with on the page, let's create a new
 
 Your div with class `section` should look something like this:
 
-![alt text](https://raw.githubusercontent.com/csinocruz/pretty-tutu-torials/master/basic-portfolio/part-1-screenshotA.png "Screen Shot of Part 1A")
+![alt text](https://raw.githubusercontent.com/csinocruz/pretty-tutu-torials/master/basic-portfolio/part-2-screenshotA.png "Screen Shot of Part 1A")
 
 
 ### Back to The Skin 🧟
