@@ -71,16 +71,18 @@ The max-width sets the width of the page-container div to be 55% of the page, bu
 It's important to organize your stylesheet and add comments when necessary because it is easy to override other styled elements by specificity or level of importance. This is diving deeper into CSS knowledge, so for more info you can go [here](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity) or [here](https://www.google.com/) 😉. 
 
 If you want to add some more flare, you can add a left [border](https://www.w3schools.com/css/css_border.asp) to the `h1` element like I did below. If we've been doing everything right, you should have something like this:
+
 ![alt text](https://raw.githubusercontent.com/csinocruz/pretty-tutu-torials/master/basic-portfolio/part-1-screenshot.png "Screen Shot of Part 1")
 
 I added a larger font-size to my h1 tag. Feel free to play around with [font-sizes](https://css-tricks.com/almanac/properties/f/font-size/) or other properties like line-height, letter-spacing, etc. 
 
 ## PART 2️⃣
 ### Back to the HTML Skeleton 💀
+Read through carefully... 
 
 1. Create a div called `projects-container`, place this div below the `about` div, but still inside `page-container`
-2. Create another div inside projects-container, give this div an `id` of "project1" and a class called "column"
-3. Inside the div with the class column, create another div with the class photo.
+2. Create another div inside `projects-container`, give this div an `id` of "project1" and a class called "column"
+3. Inside the div with the class column, create another div with the class "photo".
 4. Underneath, make an `h2` as a title for the photo
 5. Then underneath your `h2` create a `p` tag and add text/ipsum 
 
@@ -99,9 +101,9 @@ I added a larger font-size to my h1 tag. Feel free to play around with [font-siz
      </p>
 </div>
 ```
-Do this 2 more times inside the projects-container div, but each `id` should be unique. As in "project1", "project2", and "project3". It's important to know the difference between `id`'s and `classes`. Check out [this page](https://css-tricks.com/the-difference-between-id-and-class/) for a deeper understanding. 
+Do this 2 more times inside the projects-container div, but each `id` should be unique. As in "project1", "project2", and "project3". The class `photo` will remain the same name for all 3. It's important to know the difference between `id`'s and `classes`. Check out [this page](https://css-tricks.com/the-difference-between-id-and-class/) for a deeper understanding. 
 
-Annnd, just so we have more content to work with on the page, let's create a new div with a class called `section`. This will come after the `projects-container` div ***(still inside `page-container`, but NOT inside the `projects-container`)***. Inside div.section add an `h2` and 2 `p` tags (add ipsum). 
+Annnd, just so we have more content to work with on the page, let's create a new div with a class called `section`. This will come after the `projects-container` div ***(still inside `page-container`, but NOT inside the `projects-container`)***. Inside div.section add an `h2` and 2 `p` tags (add text/ipsum). 
 
 
 ### Back to The Skin 🧟
@@ -167,6 +169,7 @@ background-position: 50% 50%;
 ```
 
 🤩 Better?? Since our photos are visible, you can remove the colored borders. Extra Credit: Add a border-radius 🆒 If we've been doing everything correctly, your projects-container should look something like this:
+
 ![alt text](https://raw.githubusercontent.com/csinocruz/pretty-tutu-torials/master/basic-portfolio/part-2-screenshot.png "Screen Shot of Part 2")
 
 ## PART 3️⃣
